@@ -5,7 +5,7 @@ Cardify the concept of Spaced Repetition to help students remember what they hav
 
 
 
-https://github.com/swapnil0601/cardify/assets/81556194/fe35f9bd-1bca-45cf-9ca4-c631524f7f18
+https://github.com/Pr-at30/cardify/assets/90172285/76bf211d-73b0-4628-bed8-9a6eb291f82c
 
 
 
